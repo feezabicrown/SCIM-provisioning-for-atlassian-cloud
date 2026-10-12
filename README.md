@@ -24,7 +24,7 @@ South West Tech needed an automated identity lifecycle management solution to re
 
 ## Screenshots
 
-Configuration and testing evidence is available in the [Screenshots](../Screenshots/) folder.
+Configuration and testing evidence is available in the [Screenshots](/screenshots/) folder.
 
 ## Security Lessons Learned
 
