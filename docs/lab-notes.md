@@ -32,7 +32,7 @@ I completed the SCIM configuration in Atlassian Guard and saved the provisioning
 
 I verified that the Microsoft Entra ID directory had been successfully created in Atlassian Guard before enabling synchronization. At this stage, no users or groups had been provisioned from Microsoft Entra ID.
 
-![Initial SCIM directory state](../screenshots/Initial-SCIM-directory-state-before-user-provisioning)
+![Initial SCIM directory state](../screenshots/Initial-SCIM-directory-state-before-user-provisioning.png)
 
 *Initial SCIM directory state before user provisioning.*
 
@@ -48,7 +48,7 @@ I began configuring automatic user provisioning in Microsoft Entra ID by providi
 
 I entered the SCIM Base URL and API key generated in Atlassian Guard into the Atlassian Cloud enterprise application in Microsoft Entra ID. I then tested the connection to verify successful communication between Microsoft Entra ID and Atlassian Cloud.
 
-![Successful SCIM connection](../screenshots/Successful-SCIM-provisioning-connection-between-Microsoft-Entra-ID-and-Atlassian-Cloud)
+![Successful SCIM connection](../screenshots/Successful-SCIM-provisioning-connection-between-Microsoft-Entra-ID-and-Atlassian-Cloud.png)
 
 *Successful SCIM provisioning connection between Microsoft Entra ID and Atlassian Cloud.*
 
@@ -72,11 +72,11 @@ After assigning Sofia Martinez to the Atlassian Cloud enterprise application, I 
 
 I verified that Microsoft Entra ID successfully provisioned the assigned user to Atlassian Cloud. The provisioning logs confirmed that Sofia Martinez was created in Atlassian Cloud and that the required user attributes were synchronized through SCIM.
 
-![User created in Atlassian Cloud](../screenshots/Verification-that-Microsoft-Entra-ID-successfully-created-a-user-account-in-Atlassian-Cloud)
+![User created in Atlassian Cloud](../screenshots/Verification-that-Microsoft-Entra-ID-successfully-created-a-user-account-in-Atlassian-Cloud.png)
 
 *Verification that Microsoft Entra ID successfully created a user account in Atlassian Cloud through SCIM provisioning.*
 
-![Successful SCIM user provisioning](../screenshots/Verification-of-successful-SCIM-user-provisioning-from-Microsoft-Entra-ID-to-Atlassian-Cloud)
+![Successful SCIM user provisioning](../screenshots/Verification-of-successful-SCIM-user-provisioning-from-Microsoft-Entra-ID-to-Atlassian-Cloud.png)
 
 *Verification of successful SCIM user provisioning from Microsoft Entra ID to Atlassian Cloud.*
 
