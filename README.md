@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I configured automated user provisioning and deprovisioning between Microsoft Entra ID and Atlassian Cloud using System for Cross-domain Identity Management (SCIM).
+I configured automated user provisioning between Microsoft Entra ID and Atlassian Cloud using System for Cross-domain Identity Management (SCIM).
 
 ## Business Scenario
 
