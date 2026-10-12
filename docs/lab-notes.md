@@ -20,7 +20,7 @@ I selected the user provisioning option to establish automated user lifecycle ma
 
 I generated the SCIM Base URL and API key in Atlassian Guard. These values were required to establish a secure provisioning connection between Microsoft Entra ID and Atlassian Cloud.
 
-![Generated SCIM Base URL and API key](../screenshots/Generated-SCIM-Base-URL-and-API-key-for-Microsoft-Entra-ID-provisioning)
+![Generated SCIM Base URL and API key](../screenshots/Generated-SCIM-Base-URL-and-API-key-for-Microsoft-Entra-ID-provisioning.png)
 
 *Generated SCIM Base URL and API key for Microsoft Entra ID provisioning.*
 
