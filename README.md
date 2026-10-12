@@ -20,7 +20,6 @@ South West Tech needed an automated identity lifecycle management solution to re
 - Established SCIM provisioning between Entra ID and Atlassian Cloud
 - Assigned users for application provisioning
 - Tested and verified successful user provisioning
-- Tested user deprovisioning by removing application assignment
 
 ## Screenshots
 
